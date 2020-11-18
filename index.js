@@ -79,9 +79,9 @@ function init(){
       api(response.github)
       .then(githubUser=>{
           console.log(githubUser)
-        inputData.avatar = githubUser.data.avatar_url;
+        inputData.github = githubUser.data.html_url;
         console.log(inputData);
-      writeToFile("readme.md", markDown(inputData));
+      writeToFile("ReadMe.md", markDown(inputData));
       })  
       
     });
