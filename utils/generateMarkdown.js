@@ -22,6 +22,7 @@ function generateMarkdown(data) {
   ${data.Troubleshooting}
   ---------------------------------------
   ## Questions
+  ${data.github}
   ${data.Email}
   ---------------------------------------
   ## Table of Contents
