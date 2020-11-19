@@ -20,6 +20,7 @@
   Please read the returns from your command app. It will distinguish any issues with installations. If node.js, axios, and inquirer are installed, then ReadMePro should generate a new ReadMe file.
   ------------------------------------------
   ## Questions
+  https://github.com/baseballbrad12
   bgosien12@gmail.com
   ---------------------------------------
   ## Table of Contents
@@ -31,3 +32,6 @@
 6) Contributing (https://github.com/baseballbrad12/ReadMePro/blob/main/ReadMe.md#contributing)
 7) Test Instructions (https://github.com/baseballbrad12/ReadMePro/blob/main/ReadMe.md#test-instructions)
 8) Questions (https://github.com/baseballbrad12/ReadMePro/blob/main/ReadMe.md#questions)
+
+Here is a video for steps on how to run this application.
+https://drive.google.com/file/d/1AuhMEfGhq6-tYvN7tuKn4AgFHrWGSX1a/view
